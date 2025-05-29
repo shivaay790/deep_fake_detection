@@ -1,0 +1,13 @@
+opencv-python-headless 
+torch 
+torchvision 
+facenet-pytorch 
+numpy
+tdqm
+timm
+matplotlib
+mediapipe
+scikit-learn
+torchaudio
+fairseq
+transformers 
